@@ -1,0 +1,2 @@
+# memexception
+memify python exceptions
